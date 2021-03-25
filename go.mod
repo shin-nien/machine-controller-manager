@@ -9,7 +9,7 @@ require (
 	github.com/Azure/go-autorest/autorest/to v0.3.0
 	github.com/Azure/go-autorest/autorest/validation v0.2.0 // indirect
 	github.com/aliyun/alibaba-cloud-sdk-go v0.0.0-20180828111155-cad214d7d71f
-	github.com/aws/aws-sdk-go v1.23.13
+	github.com/aws/aws-sdk-go v1.33.21
 	github.com/cenkalti/backoff/v4 v4.1.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/emicklei/go-restful v2.9.6+incompatible // indirect
